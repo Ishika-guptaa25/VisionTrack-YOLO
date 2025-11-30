@@ -1,3 +1,13 @@
+---
+title: VisionTrack-YOLO
+emoji: 👁️
+colorFrom: purple
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.0"
+app_file: streamlit_app.py
+pinned: false
+---
 # 👁️ VisionTrack-YOLO: Real-Time Object Detection System
 
 A powerful, real-time object detection system built with YOLOv8 and Python. Track, count, and monitor objects with advanced zone-based alerts, all wrapped in an intuitive interface.
