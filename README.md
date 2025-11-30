@@ -40,15 +40,18 @@ A powerful, real-time object detection system built with YOLOv8 and Python. Trac
 ---
 
 ## 🎬 Demo
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/664634c5-1e71-4d4f-9b78-bc711aff0ac0" />
 
 ### Real-Time Detection
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/13303653-6581-4d2e-aa61-4795ca7d96e7" />
 
 ### Object Detection
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/c2e9bd96-217e-44e4-8122-9701f10471ad" />
 
 ---
 
-> ⚠️ **Important Note — COCO Dataset Limitation**  
-> *Please read this before testing the project*
+## ⚠️ **Important Note — COCO Dataset Limitation**  
+#### *Please read this before testing the project*
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dataset-COCO%2080%20Classes-blueviolet?style=for-the-badge" />
