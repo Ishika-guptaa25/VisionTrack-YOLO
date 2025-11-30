@@ -21,7 +21,7 @@ A powerful, real-time object detection system built with YOLOv8 and Python. Trac
 
 ## 🚀 Live Demo
 
-**[Try the Streamlit Web App](https://huggingface.co/spaces/ishikagupta25/VisionTrack-YOLO)** 
+**[Try the Web App](https://huggingface.co/spaces/ishikagupta25/VisionTrack-YOLO)** 
 
 ---
 
